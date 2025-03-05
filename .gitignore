@@ -1,0 +1,7 @@
+lightning_logs/
+.venv/
+data/
+__pycache__/
+Examples/
+networkx.pkl
+mymodel.pth
